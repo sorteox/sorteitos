@@ -1,4 +1,4 @@
-const nombres = ['🏆@s.t.hernandz'];
+const nombres = ['🏆@juli.uli.muni'];
 let contador = 0;
 let contadorTocadas = 0;
 
